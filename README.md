@@ -1,4 +1,4 @@
-Docker Compose Project Student ERP
+##Docker Compose Project Student ERP
 
 Now we will setup database
 Make database of Mariadb in AWS RDS

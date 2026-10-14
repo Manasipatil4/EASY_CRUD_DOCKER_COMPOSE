@@ -71,7 +71,10 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-
+For cloning the repo
+```sh
+git clone https://github.com/Manasipatil4/EASY_CRUD_DOCKER_COMPOSE.git
+```
 
 Now for frontend 
 ```sh

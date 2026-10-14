@@ -58,6 +58,13 @@ EXIT FROM DATABASE
 EXIT;
 ```
 
+
+For cloning the repo
+```sh
+git clone https://github.com/Manasipatil4/EASY_CRUD_DOCKER_COMPOSE.git
+```
+
+For Frontend
 Copy paste the rds endpoint in backend/src/main/resources/application properties in Git Repo
 
 ```sh
@@ -71,10 +78,6 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-For cloning the repo
-```sh
-git clone https://github.com/Manasipatil4/EASY_CRUD_DOCKER_COMPOSE.git
-```
 
 Now for frontend 
 ```sh

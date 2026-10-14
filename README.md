@@ -93,9 +93,12 @@ VITE_API_URL=http://13.61.5.219:8080/api
 
 Now cd..
 
-
 Go to EasyCRUD-Updated 
 
+Install Docker Engine using below link 
+```sh
+https://docs.docker.com/engine/install/ubuntu/
+```
 ```sh
 docker compose build 
 docker images
